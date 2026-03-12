@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am trying to learn more about Capture The Flag so i thought that starting with HTB would be a good way to start
+
 <!--
 **th31b1t/th31b1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
